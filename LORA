@@ -1,0 +1,15 @@
+How came up with LORA?
+-A generalization of two questions>
+  -1. Do we need to finetune all the parameters?
+  -2. For the weight matrics, how expressive should the updates be in terms of matrix rank?
+
+What is LORA?
+-d->r->d(r<<d)
+
+How do we choose the rank?
+
+Benefits?
+
+Does it work in my architecutre?
+
+
